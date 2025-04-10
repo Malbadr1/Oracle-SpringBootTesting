@@ -1,0 +1,1 @@
+{"uuid":"cbbecda9-b998-463f-95fa-21c9f594d849","name":"Test: getArticleCharacteristicsById","children":["bf5296eb-bc36-4731-86f0-b3fbcbe52fb8"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742756763617,"stop":1742756763618}],"afters":[],"start":1742756763615,"stop":1742756763828}

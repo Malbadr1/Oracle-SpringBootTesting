@@ -1,0 +1,1 @@
+{"uuid":"a6ae0843-a952-47d9-93b5-1035ebec74a6","name":"Test: getStaticCriteriaByClassCode","children":["de549efe-397f-4dac-a2b3-713e0c4cf321"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742756751770,"stop":1742756751771}],"afters":[],"start":1742756751767,"stop":1742756752826}

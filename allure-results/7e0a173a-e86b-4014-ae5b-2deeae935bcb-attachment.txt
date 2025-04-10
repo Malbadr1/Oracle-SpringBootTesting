@@ -1,0 +1,4 @@
+| ID   | CLASS_NAME          | CLASS_CODE | PRODUCT_GROUP_ID | NAME_ID                                         | DESCRIPTION      | TOLERANCE | MAX_VALUE | MIN_VALUE | UNIT | TYPE | OBLIGATORY | INTERNAL_ID | ALWAYS_VISIBLE |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 4191 | Schnittsalat-Becher | null       | 1312             | Schnittsalat-Becher_Schnittsalat-Becher-I-ganz  | Ware nicht ganz? | 2         | null      | null      | null | TEXT | FALSE      | 15          | FALSE          |
+| 4221 | Schnittsalat-Becher | null       | 1312             | Schnittsalat-Becher_Schnittsalat-Becher-II-ganz | Ware nicht ganz? | 10        | null      | null      | null | TEXT | FALSE      | 15          | FALSE          |

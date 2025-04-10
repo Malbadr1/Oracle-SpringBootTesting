@@ -1,0 +1,1 @@
+{"uuid":"16f847ef-f1db-49ba-acc3-a2c7f1b7cb1f","name":"Test: getArticleCharacteristicsByHeadUuid","children":["9cd7f99d-918a-432c-ad41-233590ce5646"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742756750045,"stop":1742756750047}],"afters":[],"start":1742756748932,"stop":1742756751067}

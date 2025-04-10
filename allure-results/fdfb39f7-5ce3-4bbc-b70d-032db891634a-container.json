@@ -1,0 +1,1 @@
+{"uuid":"fdfb39f7-5ce3-4bbc-b70d-032db891634a","name":"Test: getQualityCriteriaByTxnId","children":["e031ef14-5667-4f53-ab6d-a65007e2d76d"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742756763519,"stop":1742756763519}],"afters":[],"start":1742756763516,"stop":1742756763578}

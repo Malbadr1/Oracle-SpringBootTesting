@@ -1,0 +1,1 @@
+{"uuid":"c37e4e1e-07cd-4787-a739-d111d68af835","name":"Test: getAretoArticleBySupplierId","children":["4f44bf16-5294-4dd9-b66f-62710c26f249"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742733580287,"stop":1742733580287}],"afters":[],"start":1742733580283,"stop":1742733580389}

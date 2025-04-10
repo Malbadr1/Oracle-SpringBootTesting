@@ -1,0 +1,1 @@
+{"uuid":"07ef0d0c-b998-4ca4-94d8-f88a68e37a10","name":"Test: getAretoArticleWithNullQualityClass","children":["7e774793-9797-4447-8ccd-712ac2e6c66d"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742733570502,"stop":1742733570503}],"afters":[],"start":1742733570499,"stop":1742733570600}

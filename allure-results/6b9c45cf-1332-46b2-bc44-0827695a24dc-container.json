@@ -1,0 +1,1 @@
+{"uuid":"6b9c45cf-1332-46b2-bc44-0827695a24dc","name":"Test: getQualityCriteriaBySchemaId","children":["d535461b-3d61-4a68-8a53-adf5cbc5e688"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742756752870,"stop":1742756752870}],"afters":[],"start":1742756752866,"stop":1742756753460}

@@ -1,0 +1,1 @@
+{"uuid":"1263de9e-fc73-4511-a679-e79fc411bee1","name":"Test: getDiaStaticCriteriaByInternalId","children":["47c1dded-6f3a-4667-9e81-a82ae8054f08"],"befores":[{"name":"beforeEachTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742733582448,"stop":1742733582448}],"afters":[],"start":1742733582445,"stop":1742733582648}

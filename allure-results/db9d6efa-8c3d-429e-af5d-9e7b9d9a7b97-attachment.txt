@@ -1,0 +1,3 @@
+| ITEM_NUMBER | BEZ              | CLASS_NAME                  |
+-----------------------------------------------------------------
+| EK-89117    | HONIGMELONE STK. | Honigmelone / Zuckermelonen |

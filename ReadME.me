@@ -1,0 +1,50 @@
+# Oracle Forms Testing Framework (Spring Boot CLI)
+
+## 📌 Overview
+This project provides a custom-built testing framework for legacy systems based on **Oracle Forms Stack**, enabling automated, structured, and interactive testing of complex database queries that were previously executed manually.
+
+## 🎯 Key Features
+- ✅ **Spring Boot-based architecture**
+- 🧪 **JUnit 5 tests** for each query service
+- 🧭 **Interactive CLI Menu** for choosing tables, functions, and entering parameters
+- 📊 **Formatted table output** via custom `TableFormatter`
+- 🔄 **Scalable service layer** covering `ARTICLE`, `ARTST`, `ARTLI`, `SUPPLIER`, and more
+- 🔐 All queries are encapsulated in reusable service methods
+
+## 🚀 Benefits
+| Before                      | After                                 |
+|----------------------------|----------------------------------------|
+| Manual SQL execution       | CLI & automated test functions         |
+| No result tracking         | Formatted, savable output              |
+| High error risk            | Low error, modular design              |
+| Hard to maintain/scale     | Easily extendable                      |
+| No integration layer       | Roadmap for Kafka & ReportPortal       |
+
+# 🧪 Run & Usage Guide – Oracle Forms Test Framework
+
+This section contains all essential commands to build, run, and test the Oracle Forms Testing Framework using **Spring Boot**, **JUnit 5**, and **JDBC**.
+
+---
+
+## 🚀 Run the Application (Interactive CLI Mode)
+
+Start the interactive CLI interface (via `CLIMenuRunner.java`):
+
+```bash
+mvn clean spring-boot:run
+
+Run all test classes under src/test/java:
+'''' bash
+mvn clean test
+
+
+Run a single test class (e.g., ArticleServiceTest) only:
+
+'''' bash
+
+mvn -Dtest=ArticleServiceTest test
+
+
+#Mohanad Albadri
+Test Engineer
+📅 Date: 02.04.2025
